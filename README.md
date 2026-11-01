@@ -3,7 +3,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=3000&pause=2000&color=8A2BE2&center=true&vCenter=true&width=560&lines=%3E+close+this+world.+open+the+next.;%3E+if+it's+connected%2C+it's+mine.)
 
-`Renzo` · `027 · Brasil` · `full-stack · front-end · infra · cibersegurança`
+`Renzo` · `027 · Brasil` · `full-stack · software-engineering`
 
 [![portfolio](https://img.shields.io/badge/216saint.com.br-0d1117?style=flat-square&logo=googlechrome&logoColor=8A2BE2)](https://216saint.com.br)&nbsp;
 [![discord](https://img.shields.io/badge/discord-0d1117?style=flat-square&logo=discord&logoColor=8A2BE2)](https://discord.com/users/1401902057929183232)&nbsp;
