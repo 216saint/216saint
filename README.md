@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media1.tenor.com/m/mjWYgxi6RS8AAAAC/lain-typing.gif" width="280"/>
+
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=3000&pause=2000&color=8A2BE2&center=true&vCenter=true&width=560&lines=%3E+close+this+world.+open+the+next.;%3E+do+zero+ao+deploy.;%3E+if+it's+connected%2C+it's+mine.)
 
